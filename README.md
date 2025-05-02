@@ -28,27 +28,16 @@ overspeed_detection_project/
 │
 └── assets/
     └── (logo.png, styles.css)  # Optional assets for web app
-🚀 Quick Start
-1. Install Requirements
-bash
-Copy
-Edit
-pip install -r requirements.txt
+# 🚀 Quick Start
+# 1. Install Requirements
+     pip install -r requirements.txt
 2. Install Tesseract OCR
-Download and install from Tesseract OCR UB Mannheim
-
-Update TESSERACT_CMD path in config/settings.py
-
+     Download and install from Tesseract OCR UB Mannheim
+     Update TESSERACT_CMD path in config/settings.py
 3. Start Backend (Vehicle Detection)
-bash
-Copy
-Edit
-python backend.py
+    python backend.py
 4. Start Streamlit Dashboard
-bash
-Copy
-Edit
-streamlit run app.py
+    streamlit run app.py
 Backend and Web app should be run in separate terminals.
 
 ✨ Features
