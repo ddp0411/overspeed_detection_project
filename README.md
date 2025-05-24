@@ -25,9 +25,9 @@ overspeed_detection_project/
 │
 ├── data/
 │   └── vehicle_records.csv     # Output data stored here
-│
+│   └── users.json              # Login Data of Users     
 └── assets/
-    └── (logo.png, styles.css)  # Optional assets for web app
+    └── Output Images
 # 🚀 Quick Start
 # 1. Install Requirements
      pip install -r requirements.txt
