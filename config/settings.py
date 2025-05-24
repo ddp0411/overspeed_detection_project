@@ -17,7 +17,7 @@ SPEED_LIMIT = 100
 # ========== CAMERA SETTINGS ==========
 
 # Switch between Phone Camera and Webcam for Entry
-USE_PHONE_CAMERA_FOR_ENTRY = True   # <<<<<< FLIP True/False here
+USE_PHONE_CAMERA_FOR_ENTRY = True   # FLIP this True/False here
 
 # If using Phone, provide IP Camera URL
 ENTRY_CAMERA_URL = "http://192.168.1.2:8080/video"  # Phone IP Camera URL
